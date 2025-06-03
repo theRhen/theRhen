@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de T.I
 - 📫 Contate me: riquelme.silva011@gmail.com 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <picture>
   <source
