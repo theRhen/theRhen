@@ -1,8 +1,9 @@
 <h2 align="left">Olá👋! Me chamo Riquelme Henrique (theRhen)🌐</h2>
 
 <p align="left">
-Sou estudante de Tecnologia em Redes de Computadores no IFRN, apaixonado por tecnologia, desenvolvimento e aprendizado constante. 🚀
+Estudante de Tecnologia em Redes de Computadores, entusiasta de tecnologia e computação. 🚀
 </p>
+
 
 ###
 
