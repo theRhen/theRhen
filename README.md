@@ -1,6 +1,36 @@
-<h1> 
-  Olá, tudo bem? 👋 Me chamo Riquelme Henrique (theRhen) 🌐 
-</h1>
+<h1 id="typing"></h1>
+
+<script>
+  const text = "Olá, tudo bem? 👋 Me chamo Riquelme Henrique (theRhen) 🌐";
+  const typingSpeed = 100;  // velocidade de digitação (ms)
+  const erasingSpeed = 50;  // velocidade de apagar (ms)
+  const delayBetween = 2000; // tempo que o texto fica escrito antes de apagar (ms)
+  
+  let index = 0;
+  let isDeleting = false;
+  const element = document.getElementById("typing");
+  
+  function type() {
+    if (!isDeleting && index <= text.length) {
+      element.textContent = text.substring(0, index);
+      index++;
+      setTimeout(type, typingSpeed);
+    } else if (isDeleting && index >= 0) {
+      element.textContent = text.substring(0, index);
+      index--;
+      setTimeout(type, erasingSpeed);
+    } else if (index === text.length) {
+      isDeleting = true;
+      setTimeout(type, delayBetween);
+    } else if (index === 0) {
+      isDeleting = false;
+      setTimeout(type, typingSpeed);
+    }
+  }
+  
+  type();
+</script>
+
 
 <p>
   Estudante de Tecnologia em Redes de Computadores, entusiasta em tecnologia e computação 🚀
