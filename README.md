@@ -38,8 +38,8 @@ Seja muito bem-vindo(a) ao meu perfil! Aqui compartilho um pouco da minha trajet
 ##
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therhen/riquelme/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therhen/riquelme/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therhen/therhen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therhen/therhen/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theRhen/theRhen/output/github-contribution-grid-snake.svg">
 </picture>
 
