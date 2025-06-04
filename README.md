@@ -19,6 +19,7 @@ Olá, me chamo Riquelme Henrique (theRhen) 👋
 </picture
 
 <div>
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
 
@@ -35,5 +36,4 @@ Olá, me chamo Riquelme Henrique (theRhen) 👋
   <a href="https://instagram.com/riquelme_henriq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:riquelme.silva011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/riquelme-henrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
