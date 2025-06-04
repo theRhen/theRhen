@@ -1,6 +1,6 @@
 <h1> 
   Olá, tudo bem? 👋 Me chamo Riquelme Henrique (theRhen) 🌐 
-</h1>, 
+</h1>
 
 <p>
   Estudante de Tecnologia em Redes de Computadores, entusiasta em tecnologia e computação 🚀
