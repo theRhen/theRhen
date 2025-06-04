@@ -1,6 +1,6 @@
 <h1> 
   Olá, tudo bem? 👋
-  Me chamo Riquelme Henrique (theRhen) 🌐
+  <h2> Me chamo Riquelme Henrique (theRhen) 🌐 </h2>
 </h1>
 
 <p>
