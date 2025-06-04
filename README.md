@@ -1,4 +1,4 @@
-<h3 align="left">Olá!👋</h3>
+<h5 align="left">Olá!👋</h5>
 <h2 align="left">Me chamo Riquelme Henrique (theRhen) 🌐</h2>
 
 <p align="left">
