@@ -1,8 +1,8 @@
-<p align="left" style="font-size: 64px; margin-bottom: 0; margin-top: 0;">Olá! 👋</p>
-<p align="left" style="font-size: 32px; margin-top: 0; margin-bottom: 0;">Me chamo Riquelme Henrique (theRhen) 🌐</p>
-<p align="left" style="font-size: 16px; color: #555;">
-  Estudante de Tecnologia em Redes de Computadores, entusiasta em tecnologia e computação 🚀
-</p>
+# Olá! 👋
+## Me chamo Riquelme Henrique (theRhen) 🌐
+
+Estudante de Tecnologia em Redes de Computadores, entusiasta em tecnologia e computação 🚀
+
 
 ###
 
