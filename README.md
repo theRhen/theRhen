@@ -1,6 +1,10 @@
 <h1> 
-  Olá, tudo bem? 👋 Me chamo Riquelme Henrique (theRhen) 🌐 
+  Olá, tudo bem? 👋 
 </h1>
+
+<h3>
+  Me chamo Riquelme Henrique (theRhen) 🌐 
+</h3>
 
 <p>
 Recém formado como Técnico de Nível Médio em informática e estudante de Tecnologia em Redes de Computadores, entusiasta de tecnologia, redes, desenvolvimento e tudo que envolva o universo da computação. Estou sempre em busca de novos conhecimentos e desafios que me ajudem a evoluir tanto pessoal quanto profissionalmente. No momento, dedico meu tempo aos estudos, à prática constante e ao desenvolvimento de projetos que me proporcionem aprendizado real. 
