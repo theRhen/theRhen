@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/riquelme_henrique" target="_blank">
+  <a href="https://www.instagram.com/riquelme_henriq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/riquelme_fic" target="_blank">
