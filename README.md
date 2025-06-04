@@ -6,7 +6,7 @@
   Me chamo Riquelme Henrique (theRhen) 🌐 
 </h3>
 
-<p>
+<p align="center">
 Recém formado como Técnico de Nível Médio em Informática e estudante de Tecnologia em Redes de Computadores, entusiasta de tecnologia, redes, desenvolvimento e tudo que envolva o universo da computação. Estou sempre em busca de novos conhecimentos e desafios que me ajudem a evoluir tanto pessoal quanto profissionalmente. No momento, dedico meu tempo aos estudos, à prática constante e ao desenvolvimento de projetos que me proporcionem aprendizado real.
 </p>
 Seja muito bem-vindo(a) ao meu perfil! Aqui compartilho um pouco da minha trajetória, meus estudos e minha evolução. 🚀
