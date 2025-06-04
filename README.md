@@ -41,6 +41,10 @@ Seja muito bem-vindo(a) ao meu perfil! Aqui compartilho um pouco da minha trajet
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theRhen/theRhen/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/theRhen/count.svg?"  />
+</div>
+
 ##
 
 <div align="center">
