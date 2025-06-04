@@ -2,10 +2,6 @@
   Olá, tudo bem?👋 
 </h1>
 
-<div align="center">
-  <img height="200" src="blob:https://willkessler.github.io/7e80ed03-77ea-488a-b6aa-d55259d4eb57"  />
-</div>
-
 <h3>
   Me chamo Riquelme Henrique (theRhen) 🌐 
 </h3>
