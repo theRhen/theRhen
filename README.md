@@ -16,7 +16,7 @@ Seja muito bem-vindo(a) ao meu perfil! Aqui compartilho um pouco da minha trajet
 </div>
 
 ##
-<h3 align="center">Languages & Skills</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
