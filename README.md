@@ -2,6 +2,10 @@
   Olá, tudo bem?👋 
 </h1>
 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 <h3>
   Me chamo Riquelme Henrique (theRhen) 🌐 
 </h3>
