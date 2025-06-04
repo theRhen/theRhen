@@ -3,9 +3,9 @@
 </h1>
 
 <p>
-  Recém formado como técnico de nível médio em Informática e curso atualmente Tecnologia em Redes de Computadores no IFRN – Campus Natal-Central. Atuei como Aprendiz Auxiliar Administrativo na JL de Medeiros & Araújo LTDA, prestando suporte administrativo, atendimento presencial e online, faturamento e organização documental. Tenho conhecimentos em TI, trabalho bem em equipe e me adapto rapidamente a novos desafios.🚀
+  Recém formado como Técnico de Nível Médio em informática e estudante de Tecnologia em Redes de Computadores, entusiasta de tecnologia, redes, desenvolvimento e tudo que envolva o universo da computação. Estou sempre em busca de novos conhecimentos e desafios que me ajudem a evoluir tanto pessoal quanto profissionalmente. No momento, dedico meu tempo aos estudos, à prática constante e ao desenvolvimento de projetos que me proporcionem aprendizado real. 
+  Seja muito bem-vindo(a) ao meu perfil! Aqui compartilho um pouco da minha trajetória, meus estudos e minha paixão por tecnologia. 🚀
 </p>
-
 
 ###
 
