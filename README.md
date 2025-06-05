@@ -71,4 +71,14 @@ Seja muito bem-vindo(a) ao meu perfil! Aqui compartilho um pouco da minha trajet
   </a>
 </div>
 
+##
+
+#                       _____       #                
+#  __    _             |      \     #               
+# |  |_ | |       ___  |   X   |    #                
+# |  __|| |____  /   \ |      /     #               
+# |  |  |  __  ||  =  ||   _  \     #              
+# \  |_ | |  | ||  __/ |  | |  |    #                
+#  \___||_|  |_| \____||__| |__|hen #     
+
 
